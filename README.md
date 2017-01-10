@@ -11,6 +11,7 @@
 
 - [Beautiful placeholders using images from unsplash](https://unsplash.com/)
 - [Best free stock photos in one place pexels.com](https://www.pexels.com/)
+- [pixabay Images et vidéos gratuites que vous pouvez utiliser n'importe où](https://pixabay.com/fr/)
 
 ## Icons
 
