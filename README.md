@@ -6,6 +6,7 @@
 
 - [Design Resources](#design-resources)
 - [Icons](#icons)
+- [Logos](#icons)
 - [Front-End Development](#front-end-development)
 - [Programming Languages](#programming-languages)
 - [Platforms](#platforms)
@@ -13,16 +14,21 @@
 
 ## Design Resources
 
-- [Beautiful placeholders using images from unsplash](https://unsplash.com/)
-- [Best free stock photos in one place pexels.com](https://www.pexels.com/)
-- [pixabay Images et vidéos gratuites que vous pouvez utiliser n'importe où](https://pixabay.com/fr/)
+- [unsplash.com : Beautiful placeholders images](https://unsplash.com/)
+- [pexels.com : Best free stock photos in one place](https://www.pexels.com/)
+- [pixabay.com : Images et vidéos gratuites que vous pouvez utiliser n'importe où](https://pixabay.com/fr/)
 
 ## Icons
 
 - [FontAwesome](http://fontawesome.io/icons/)
-- [The premium icon font for Ionic Framework](http://ionicons.com/)
-- [The nounproject : Icons for Everything](https://thenounproject.com/)
-- [The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats](http://www.flaticon.com/)
+- [ionicons.com: The premium icon font for Ionic Framework](http://ionicons.com/)
+- [The nounproject: Icons for Everything](https://thenounproject.com/)
+- [flaticon.com: The largest database of free icons](http://www.flaticon.com/)
+
+## Logos
+
+- [instantlogosearch.com : Search & download thousands of logos instantly](http://instantlogosearch.com/)
+- [lalogotheque.com : Banque de LOGOS et ressources vectorielles (format Illustrator)](http://www.lalogotheque.com/fr/)
 
 ## Front-End Development
 
@@ -43,6 +49,8 @@
 - [GulpJS](http://gulpjs.com/)
 
 ## Programming Languages
+
+- [Comment configurer git & Github sur macOS, Linux & Windows ?](http://davidl.fr/git.html)
 
 - [JavaScript](https://www.javascript.com/)
   + __Best practises__
