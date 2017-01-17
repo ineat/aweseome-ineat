@@ -67,6 +67,10 @@
   + __Editor tools__
     - [Sublime snippets](https://github.com/zenorocha/sublime-javascript-snippets)
 
+## Bank Transaction
+
+- [Stripe](https://stripe.com/fr)
+
 ## Platforms
 
 - [Node.js](https://nodejs.org/en/)
